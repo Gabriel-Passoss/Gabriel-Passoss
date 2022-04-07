@@ -1,4 +1,4 @@
-### Opa, Eu sou o Gabriel Passos!
+### Hi, I'm Gabriel Passos!
 
 <div align="center">
   <a href="https://github.com/Gabriel-Passoss">
